@@ -459,7 +459,7 @@ const Login = () => {
           <div className="mt-8 pt-6 border-t border-gray-100">
             <p className="text-sm text-gray-400">
               Developed by{" "}
-              <span className="font-bold text-blue-800">KWANDA GROUP</span>
+              <span className="font-bold text-blue-800"><a href="https://linktr.ee/kwandagroup">KWANDA GROUP</a></span>
             </p>
           </div>
         </div>
